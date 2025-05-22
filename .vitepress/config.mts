@@ -12,8 +12,8 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/Impariamo-Giocando" },
     ],
     footer: {
-      copyright: "© 2025 - the Impariamo-Giocando team.",
-      message: "Tutti i diritti riservati.",
+      copyright: "© 2025 - Tutti i diritti riservati.",
+      message: "Forniglia Lorenzo - Giordana Giulia - Gollè Lorenzo - Pocchiola Arianna",
     },
     logo: {
       src: "/logo.webp",

@@ -12,6 +12,8 @@ features:
     link: https://impariamo-giocando.github.io/orientamento-deploy/
   - title: Puntini (alpha)
     link: https://impariamo-giocando.github.io/puntini/
+  - title: Trascina
+    link: https://asl.liceocuneo.it/
   - title: Chi siamo
     link: /chi-siamo
 ---
